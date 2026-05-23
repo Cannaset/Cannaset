@@ -15,12 +15,11 @@
 ## 🩵 About Me
 
 ```yaml
-name: Kana
+name: Kanaya Salsabila Humaira
 education: Informatics Student
 interests:
   - Software Development
   - Web Development
-  - UI/UX Design
 currently_learning:
   - C++
   - Backend Development
@@ -39,33 +38,12 @@ currently_learning:
 
 ---
 
-## 🌷 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cannaset&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannaset&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## ✨ Current Focus
 
 - Building personal and academic projects
 - Exploring full-stack development
 - Improving problem-solving skills
 - Learning clean and efficient coding practices
-
----
-
-## 🌸 Fun Fact
-
-```txt
-Most coding problems are solved
-after staring at the screen dramatically for 20 minutes.
-```
 
 ---
 
