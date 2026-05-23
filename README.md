@@ -10,6 +10,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://media.tenor.com/jK6a6i5t8HkAAAAM/anime-bocchi.gif" width="250"/>
+</p>
+
 ---
 
 ## 🩵 About Me
