@@ -4,7 +4,7 @@
 
 # Hi there, I'm Kana 👋
 
-### Informatics Student • Aspiring Developer • UI Enthusiast
+### Informatics Student 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=93C5FD&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day;Building+projects+and+improving+skills;Turning+ideas+into+code" />
 
@@ -33,7 +33,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,mysql,figma,git,vscode,github&theme=light" />
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,mysql,git,vscode,github&theme=light" />
 
 </div>
 
