@@ -43,9 +43,9 @@ currently_learning:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cannaset&show_icons=true&theme=transparent&hide_border=true&title_color=93C5FD&icon_color=F9A8D4&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cannaset&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannaset&layout=compact&theme=transparent&hide_border=true&title_color=93C5FD&text_color=cbd5e1" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cannaset&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
