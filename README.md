@@ -39,15 +39,15 @@
 ## 🩵 About Me
 
 ```yaml
-name: Kanaya Salsabila Humaira
-education: Informatics Student
+Name: Kanaya Salsabila Humaira
+Education: Informatics Student in Universas Mataram
 
-interests:
+Interests:
   - Software Development
   - Web Development
   - UI/UX
 
-currently_learning:
+I'm Currently Learning About:
   - C++
   - Backend Development
   - Database Systems
