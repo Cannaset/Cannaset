@@ -4,15 +4,15 @@
 
 # Hi there, I'm Kana 👋
 
-### Informatics Student 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=93C5FD&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day;Building+projects+and+improving+skills;Turning+ideas+into+code" />
-
-</div>
+### Informatics Student
 
 <p align="center">
   <img src="https://media.tenor.com/jK6a6i5t8HkAAAAM/anime-bocchi.gif" width="250"/>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=93C5FD&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day;Building+projects+and+improving+skills;Turning+ideas+into+code" />
+
+</div>
 
 ---
 
