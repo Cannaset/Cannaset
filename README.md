@@ -44,13 +44,15 @@ Education: Informatics Student in Universas Mataram
 
 Interests:
   - Software Development
-  - Web Development
-  - UI/UX
+  - Cyber Security
+  - Internet of Things
+  - Machine Learning
 
 I'm Currently Learning About:
   - C++
   - Backend Development
   - Database Systems
+  - Machine Learning
 ```
 
 ---
@@ -67,7 +69,7 @@ I'm Currently Learning About:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,php,mysql,git,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=cpp, python,html,css,js,php,mysql,git,vscode,github"/>
 
 </div>
 
