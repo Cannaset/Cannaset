@@ -69,7 +69,7 @@ I'm Currently Learning About:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp, python,html,css,js,php,mysql,git,vscode,github"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,php,mysql,git,vscode,github"/>
 
 </div>
 
