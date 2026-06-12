@@ -6,9 +6,9 @@
 
 ![Profile Banner](Assets/profile-banner.jpg)
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=93C5FD&center=true&vCenter=true&width=500&lines=Learning+something+new+every+day;Building+projects+and+improving+skills;Turning+ideas+into+code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=93C5FD&center=true&vCenter=true&width=500&lines=I+love+Elysia;Building+projects+and+improving+skills;Turning+ideas+into+code;I+love+Elysia"/>
 
 <br>
 
@@ -16,11 +16,7 @@
 
 <br>
 
-## 🌸 Discord Status
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/698173837430489188?bg=FFA9CB&showDisplayName=true&theme=light)](https://discord.com/users/698173837430489188)
-
-<br>
+## 🌸 My Performance
 
 <img src="https://user-images.githubusercontent.com/74038190/216649433-c76596e3-4fba-4f02-9f68-6b8d0f6b9d6d.gif" width="100%"/>
 
