@@ -6,7 +6,7 @@
 
 ### ⋆｡˚ ☁︎ Informatics Student ☁︎ ˚｡⋆
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBzcTh5NDF3cmJoNmZ0Zml6cWV6OHp0c3ExeWhnNWQ1NzZjMWY3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dehi0LmZ9nTJvMH4G2/giphy.gif" width="220"/>
+![Profile Banner](Assets/profile-banner.jpg)
 
 <br><br>
 
