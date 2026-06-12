@@ -1,7 +1,4 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bae6fd,100:fbcfe8&height=220&section=header&text=Kana%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
 # Hi there, I'm Kana 👋
 
 ### ⋆｡˚ ☁︎ Informatics Student ☁︎ ˚｡⋆
@@ -89,7 +86,4 @@ I'm Currently Learning About:
 <img src="https://user-images.githubusercontent.com/74038190/216649433-c76596e3-4fba-4f02-9f68-6b8d0f6b9d6d.gif" width="100%"/>
 
 ### 🩷 Thanks for visiting my profile 🩵
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbcfe8,100:bae6fd&height=120&section=footer"/>
-
 </div>
