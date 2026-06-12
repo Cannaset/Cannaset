@@ -85,5 +85,7 @@ I'm Currently Learning About:
 
 <img src="https://user-images.githubusercontent.com/74038190/216649433-c76596e3-4fba-4f02-9f68-6b8d0f6b9d6d.gif" width="100%"/>
 
+![GIF](Assets/elysia.gif)
+
 ### 🩷 Thanks for visiting my profile 🩵
 </div>
