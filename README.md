@@ -18,7 +18,7 @@
 
 ## 🌸 Discord Status
 
-<img src="https://lanyard.cnrad.dev/api/698173837430489188?animated=true&bg=1a1b27&borderRadius=20px"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/698173837430489188?bg=FFA9CB&showDisplayName=true&theme=light)](https://discord.com/users/698173837430489188)
 
 <br>
 
