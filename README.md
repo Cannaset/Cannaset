@@ -41,6 +41,7 @@ Interests:
   - Cyber Security
   - Internet of Things
   - Machine Learning
+  - Moodboard Editing
 
 I'm Currently Learning About:
   - C++
